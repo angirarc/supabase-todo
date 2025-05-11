@@ -14,7 +14,7 @@ This project is a simple Todo application built using Supabase as the backend se
 ## Technologies Used
 
 - [Supabase](https://supabase.io/)
-- Frontend framework Next.js
+- [Next.js](https://nextjs.org/)
 
 ## Getting Started
 
